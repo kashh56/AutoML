@@ -45,13 +45,11 @@
   Check out the live demo of AutoML and experience the power of automated machine learning firsthand!
 </p>
 
+
 ## 🎬 Video Showcase
 
 <p align="center">
-  <video width="800" controls>
-    <source src="demo-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="automl-gif.gif" alt="AutoML Demonstration" width="800">
 </p>
 
 <p align="center">
