@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+          width: 100%;
+          height: 200px;
+          background: transparent;
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        h1 {
+          font-size: 85px;
+          font-weight: bold;
+          margin-bottom: 0;
+          color: #00FF00;
+          text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;
+        }
+        
+        p {
+          font-size: 30px;
+          margin-top: 0;
+          color: #00CC00;
+          text-shadow: 0 0 5px #00FF00;
+        }
+      </style>
+      <div class="container">
+        <h1>AutoML</h1>
+        <p>Automated Machine Learning Platform</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
