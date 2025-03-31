@@ -36,7 +36,7 @@
 ## 🔗 Live Demo
 
 <p align="center">
-  <a href="https://automl-demo.streamlit.app" target="_blank">
+  <a href="https://automl-by-kashh.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/Try%20the%20Demo-00B8D9?style=for-the-badge&logo=streamlit&logoColor=white" alt="Try the Demo" />
   </a>
 </p>
